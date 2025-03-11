@@ -1,0 +1,31 @@
+header {
+    width: 100%;
+    padding: 15px 40px;
+}
+
+.headercontainerenv {
+    width: 100%;
+    padding: 10px;
+    background-color: var(--header-background);
+    border-radius: 3px;
+}
+
+.headercontainerone, .headercontainertwo {
+    flex: 1 1 auto;
+    gap: 15px
+}
+.headercontainerone {
+    justify-content: start;
+}
+
+.headercontainertwo {
+    justify-content: end;
+}
+
+.headeritem {
+    padding: 10px;
+    color: var(--color-primary);
+    text-decoration: none;
+    background-color: var(--color-quaternary);
+    border-radius: 3px;
+}
