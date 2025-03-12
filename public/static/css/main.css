@@ -1,0 +1,18 @@
+main {
+    min-height: 1000px;
+}
+
+.main-con1-env {
+    width: auto;
+    min-height: 300px;
+    padding: 0px 20px;
+    gap: 15px;
+}
+
+.main-con2-env {
+    width: 100%;
+    min-height: 210px;
+    padding: 20px;
+}
+
+
