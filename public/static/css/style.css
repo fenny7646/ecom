@@ -2,11 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 /* Style CSS */
 @import "box.css";
-@import "fontstyle.css";
 @import "header.css";
 @import "main.css";
 @import "maincon1.css";
 @import "maincon2.css";
+@import "itdesc.css";
+@import "fontstyle.css";
 
 :root {
 /* Colors */
@@ -29,7 +30,7 @@
     --main-header-card-backcolor: ;
     --main-header-card-color: ;
     --main-header-card-color: ;
-    /* Card */
+    /* Home Card */
     --main-con1-itcon1-bg: var(--color-primary);
     --main-con1-itcon2-bg: var(--color-secondary);
     --main-con1-itcon2-itcon1_itcon2_itcon3-bg: var(--color-primary);
@@ -44,6 +45,12 @@
     --main-con2-con2-itcon2-1-3-2-clr: var(--color-quaternary);
     --main-con2-con2-itcon2-1-3-3-bg: var(--color-quaternary);
     --main-con2-con2-itcon2-1-3-3-clr: var(--color-primary);
+    /* ItemDesc */
+    --itdesc-main-con-bg: var(--color-primary);
+    --itdesc-con-common-clr: var(--color-quaternary);
+    --itdesc-con-con2-1-1-img-bg: var(--color-secondary);
+    --itdesc-con-con2-1-button-bg: var(--color-quaternary);
+    --itdesc-con-con2-1-button-clr: var(--color-primary);
 }   
 
 body {
