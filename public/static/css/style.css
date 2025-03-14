@@ -8,6 +8,7 @@
 @import "maincon2.css";
 @import "itdesc.css";
 @import "cart.css";
+@import "wishlist.css";
 
 :root {
 /* Colors */
@@ -62,6 +63,19 @@
     --cart-con3-2-button-clr: var(--color-primary);
     --cart-itcon-header-bg: var(--color-primary);
     --cart-itcon-header-clr: var(--color-quaternary);
+    /* WishList */
+    --wish-main-con-bg: var(--color-primary);
+    --wish-con1-1-bg: var(--color-secondary);
+    --wish-con1-1-clr: var(--color-quaternary);
+    --wish-con2-1-bg: var(--color-secondary);
+    --wish-con2-1-clr: var(--color-quaternary);
+    --wish-con2-2-1-bg: var(--color-secondary);
+    --wish-con2-2-1-3-2-1-box-bg: var(--color-primary);
+    --wish-con2-2-1-3-2-1-box-clr: var(--color-quaternary);
+    --wish-con2-2-1-2-1-button-bg: var(--color-primary);
+    --wish-con2-2-1-2-1-button-clr:var(--color-quaternary);
+    --wish-con2-2-1-2-2-button-bg: var(--color-quaternary);
+    --wish-con2-2-1-2-2-button-clr: var(--color-primary);
 }   
 
 body {
