@@ -7,7 +7,7 @@
 @import "maincon1.css";
 @import "maincon2.css";
 @import "itdesc.css";
-@import "fontstyle.css";
+@import "cart.css";
 
 :root {
 /* Colors */
@@ -51,6 +51,17 @@
     --itdesc-con-con2-1-1-img-bg: var(--color-secondary);
     --itdesc-con-con2-1-button-bg: var(--color-quaternary);
     --itdesc-con-con2-1-button-clr: var(--color-primary);
+    /* Cart */
+    --cart-main-con-bg: var(--color-primary);
+    --cart-con-con1-bg: var(--color-secondary);
+    --cart-con-con1-clr: var(--color-quaternary);
+    --cart-con2-con1-bg: var(--color-secondary);
+    --cart-con2-con1-3-1-1-button-bg: var(--color-primary);
+    --cart-con2-con1-3-1-1-button-clr: var(--color-quaternary);
+    --cart-con3-2-button-bg: var(--color-quaternary);
+    --cart-con3-2-button-clr: var(--color-primary);
+    --cart-itcon-header-bg: var(--color-primary);
+    --cart-itcon-header-clr: var(--color-quaternary);
 }   
 
 body {

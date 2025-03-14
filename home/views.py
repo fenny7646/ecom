@@ -3,4 +3,4 @@ from django.shortcuts import HttpResponse
 
 # Create your views here.
 def home(request):
-    return render(request, 'Base/itemdesc.html')
+    return render(request, 'Base/cart.html')
