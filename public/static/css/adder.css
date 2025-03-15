@@ -97,14 +97,18 @@
     width: 40%;
     height: auto;
     gap: 7px;
+    justify-content: center;
+    align-items: center;
 }
 
 .add-823-c1-box {
+    width: 100%;
     height: 50px;
     justify-content: center;
     align-items: center;
     background-color: var(--add-823-c1-box-bg);
     color: var(--add-823-c1-box-clr);
+    border-radius: 4px;
 }
 
 .add-823-c2-env {
@@ -239,6 +243,7 @@
 .add-itcon2-1 {
     width: 300px;
     height: 480px;
+    padding: 5px;
     background-color: var(--main-con2-con1-itcon2-1-bg);
     border-radius: 4px;
 }

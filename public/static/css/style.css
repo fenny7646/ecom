@@ -4,13 +4,14 @@
 @import "box.css";
 @import "header.css";
 @import "main.css";
-@import "maincon1.css";
-@import "maincon2.css";
+@import "maincon.css";
 @import "itdesc.css";
 @import "cart.css";
 @import "wishlist.css";
 @import "adder.css";
 @import "panel.css";
+@import "hover.css";
+@import "mediaquery.css";
 
 :root {
 /* Colors */
