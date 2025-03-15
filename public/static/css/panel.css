@@ -1,0 +1,111 @@
+.panel-con {
+    width: 100%;
+    height: auto;
+    padding: 0px 20px 20px;
+    gap: 20px;
+}
+
+.panel-873 {
+    min-height: 40px;
+    padding: 5px;
+    gap: 7px;
+    background-color: var(--panel-873-bg);
+    border-radius: 4px;
+}
+
+.panel-873-con1-env {
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.panel-873-con1-1 {
+    width: 30%;
+    height: 40px;
+    padding: 5px;
+    justify-content: start;
+    align-items: center;
+    background-color: var(--panel-873-con1-bg);
+    color: var(--panel-873-con1-clr);
+    border-radius: 4px;
+}
+
+.panel-873-con1-2 {
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--panel-873-con1-2-bg);
+    color: var(--panel-873-con1-2-clr);
+    border-radius: 4px;
+}
+
+.panel-873-con2-env {
+    min-height: 40px;
+}
+
+.panel-873-con2 {
+    height: 45px;
+    padding: 5px;
+    justify-content: space-between;
+    background-color: var(--panel-873-con2-bg);
+    border-radius: 4px;
+}
+
+.panel-873-con2-env-1 {
+    width: auto;
+    gap: 5px;
+
+}
+
+.panel-873-con2-env-2 {
+    width: auto;
+    gap: 5px;
+}
+
+.panel-873-con2-1 {
+    width: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--panel-873-con2-1-bg);
+    color: var(--panel-873-con2-1-clr);
+    border-radius: 4px;
+}
+
+.panel-873-con2-2 {
+    width: 200px;
+    padding: 5px;
+    justify-content: start;
+    align-items: center;
+}
+
+
+.panel-873-con2-3 {
+    width: 120px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--panel-873-con2-3-bg);
+    color: var(--panel-873-con2-3-clr);
+    border-radius: 4px;
+}
+
+.panel-873-con2-4 {
+    width: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--panel-873-con2-1-bg);
+    color: var(--panel-873-con2-1-clr);
+    border-radius: 4px;
+}
+
+/* Font Styles */
+
+.panel-873-con1-1 a {
+    font-weight: var(--font-weight-5);
+    font-size: 17pt;
+}
+
+.panel-873-con2-2-env-1 a{
+    font-weight: var(--font-weight-3);
+    font-size: 13pt;
+}

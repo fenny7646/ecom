@@ -10,6 +10,7 @@
 @import "cart.css";
 @import "wishlist.css";
 @import "adder.css";
+@import "panel.css";
 
 :root {
 /* Colors */
@@ -98,6 +99,17 @@
     --add-619-c1-c2-c1-foam-box-clr: var(--color-quaternary);
     --add-534-733-c2-c4-button-bg: var(--color-primary);
     --add-534-733-c2-c4-button-clr: var(--color-quaternary);
+    /* Panel */
+    --panel-873-bg: var(--color-primary);
+    --panel-873-con1-bg: var(--color-secondary);
+    --panel-873-con1-clr: var(--color-quaternary);
+    --panel-873-con1-2-bg: var(--color-quaternary);
+    --panel-873-con1-2-clr: var(--color-primary);
+    --panel-873-con2-bg: var(--color-secondary);
+    --panel-873-con2-1-bg: var(--color-primary);
+    --panel-873-con2-1-clr: var(--color-quaternary);
+    --panel-873-con2-3-bg: var(--color-quaternary);
+    --panel-873-con2-3-clr: var(--color-primary);
 }   
 
 body {
