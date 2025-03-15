@@ -1,0 +1,341 @@
+.add-main-con-env {
+    width: 100%;
+    height: auto;
+    gap: 15px;
+    padding: 0px 20px 15px;
+}
+
+.add-c-c1 {
+    width: 100%;
+    height: auto;
+    padding: 7px;
+    gap: 7px;
+    background-color: var(--add-c-c1-bg);
+    border-radius: 4px;
+}
+
+.add-619-c1-c1 {
+    width: 70%;
+    height: auto;
+    gap: 7px;
+}
+
+.add-619-c1-c1-header {
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--add-619-c1-c1-header-bg);
+    color: var(--add-619-c1-c1-header-clr);
+    border-radius: 4px;
+}
+
+.add-619-c1-c1-c2-env {
+    height: 550px;
+    padding: 2px;
+    background-color: var(--add-619-c1-c1-c2-bg);
+    border-radius: 4px;
+}
+
+.add-619-c1-c2-c1-foam-env {
+    height: auto;
+    width: 60%;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.add-619-c1-c2-c1-foam {
+    width: 80%;
+    gap: 10px;
+}
+.add-619-c1-c2-c1-foam-box {
+    width: 90%;
+    height: 40px;
+    justify-content: center;
+    align-items: start;
+    padding: 3px;
+    background-color: var(--add-619-c1-c2-c1-foam-box-bg);
+    color: var(--add-619-c1-c2-c1-foam-box-clr);
+    border-radius: 4px;
+}
+
+.add-619-c1-c2-c2-env {
+    width: 40%;
+    height: auto;
+    padding: 5px;
+}
+
+.add-619-c1-c2-c2-img-env {
+    height: 520px;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-619-c1-c2-c2-img {
+    width: 80%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-619-c1-c2-c2-button-env {
+    height: 30px;
+    justify-content: end;
+    align-items: center;
+}
+
+.add-619-c1-c2-c2-button {
+    width: 50px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--add-619-c1-c2-c2-button-bg);
+    color: var(--add-619-c1-c2-c2-button-clr);
+    border-radius: 4px;
+}
+
+.add-823-env {
+    width: 40%;
+    height: auto;
+    gap: 7px;
+}
+
+.add-823-c1-box {
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--add-823-c1-box-bg);
+    color: var(--add-823-c1-box-clr);
+}
+
+.add-823-c2-env {
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-534-env {
+    width: 100%;
+    height: auto;
+}
+
+.add-534 {
+    min-height: 500px;
+    padding: 5px;
+    gap: 7px;
+    background-color: var(--add-534-bg);
+    border-radius: 4px;
+}
+
+.add-534-733-env {
+    width: 100%;
+    height: auto;
+    gap: 7px;
+}
+
+.add-534-733-c1-header-env {
+    height: 45px;
+    justify-content: space-between;
+}
+
+.add-534-733-c1-header {
+    width: 30%;
+    padding: 5px;
+    background-color: var(--add-534-733-c1-header-bg);
+    color: var(--add-534-733-c1-header-clr);
+    border-radius: 4px;
+    justify-content: start;
+    align-items: center
+}
+
+.add-534-733-c1-header-button {
+    width: 45px;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--add-534-733-c1-header-button-bg);
+    color: var(--add-534-733-c1-header-button-clr);
+    border-radius: 4px;
+}
+
+.add-534-733-c2 {
+    width: 100%;
+    height: 200px;
+    padding: 5px;
+    gap: 7px;
+    background-color: var(--add-534-733-c2-bg);
+    border-radius: 4px;
+}
+
+.add-534-733-c2-c1-img-env {
+    width: 15%;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-534-733-c2-c2-env {
+    width: 35%;
+    justify-content: start;
+    align-items: center;
+}
+
+.add-534-733-c2-c3-env {
+    width: 30%;
+    gap: 7px;
+}
+
+.add-534-733-c2-c3-c1 {
+    width: 50%;
+    justify-content: center;
+}
+
+.add-534-733-c2-c3-c2 {
+    width: 50%;
+    justify-content: center;
+}
+
+.add-534-733-c2-c4-env {
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-534-733-c2-c4-env-1 {
+    width: 20%;
+}
+
+
+.add-534-733-c2-c4-button-1-env {
+    height: 35px;
+    justify-content: end;
+}
+
+.add-534-733-c2-c4-button-2-env {
+    height: 125px;
+    gap: 7px;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-534-733-c2-c4-button-1 {
+    width: 35px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--add-534-733-c2-c4-button-bg);
+    color: var(--add-534-733-c2-c4-button-clr);
+    border-radius: 4px;
+}
+
+.add-534-733-c2-c4-box {
+    width: 100px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--add-534-733-c2-c4-box-bg);
+    color: var(--add-534-733-c2-c4-box-clr);
+    border-radius: 4px;
+}
+
+.add-itcon2-1 {
+    width: 300px;
+    height: 480px;
+    background-color: var(--main-con2-con1-itcon2-1-bg);
+    border-radius: 4px;
+}
+
+.add-itcon2-1-1-env {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-itcon2-1-2-env {
+    height: 120px;
+    padding: 5px;
+    gap: 7px;
+}
+
+.add-itcon2-1-3-env {
+    height: 60px;
+    padding: 7px;
+    gap: 7px;
+}
+
+.add-itcon2-1-3-2 {
+    width: 60px;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--main-con2-con2-itcon2-1-3-2-bg);
+    color: var(--main-con2-con2-itcon2-1-3-2-clr);
+    border-radius: 4px;
+}
+
+.add-itcon2-1-3-3 {
+    width: 120px;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--main-con2-con2-itcon2-1-3-3-bg);
+    color: var(--main-con2-con2-itcon2-1-3-3-clr);
+    border-radius: 4px;
+}
+
+.add-itcon2-1-3-1-env {
+    width: 30%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-itcon2-1-2-1-env {
+    width: 70%;
+    height: 120px;
+    gap: 7px;
+}
+
+.add-itcon2-1-2-2-env {
+    width: 30%;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-itcon2-1-2-1-1 {
+    width: 100%;
+    height: 60%;
+    justify-content: start;
+    align-items: center;
+}
+
+
+/* Font Style */
+.add-619-c1-c1-header a {
+    font-weight: var(--font-weight-4);
+    font-size: 20pt;
+}
+
+.add-823-c1-box a {
+    font-weight: var(--font-weight-4);
+    font-size: 20pt;
+}
+
+.add-619-c1-c2-c1-foam-box a {
+    font-weight: var(--font-weight-3);
+    font-size: 15pt;
+}
+
+.add-534-733-c1-header a {
+    font-weight: var(--font-weight-4);
+    font-size: 15pt;
+}
+
+.add-534-733-c2-c3-c1 a {
+    font-weight: var(--font-weight-4);
+    font-size: 12pt;
+}
+
+.add-534-733-c2-c2-env a {
+    font-weight: var(--font-weight-4);
+    font-size: 15pt;
+}

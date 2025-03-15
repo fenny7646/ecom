@@ -9,6 +9,7 @@
 @import "itdesc.css";
 @import "cart.css";
 @import "wishlist.css";
+@import "adder.css";
 
 :root {
 /* Colors */
@@ -76,6 +77,27 @@
     --wish-con2-2-1-2-1-button-clr:var(--color-quaternary);
     --wish-con2-2-1-2-2-button-bg: var(--color-quaternary);
     --wish-con2-2-1-2-2-button-clr: var(--color-primary);
+    /* Adder */
+    --add-c-c1-bg: var(--color-primary);
+    --add-619-c1-c1-header-bg: var(--color-secondary);
+    --add-619-c1-c1-header-clr: var(--color-quaternary);
+    --add-619-c1-c1-c2-bg: var(--color-secondary);
+    --add-619-c1-c2-c2-button-bg: var(--color-quaternary);
+    --add-619-c1-c2-c2-button-clr: var(--color-primary);
+    --add-823-c1-box-bg: var(--color-secondary);
+    --add-823-c1-box-clr: var(--color-quaternary);
+    --add-534-bg: var(--color-primary);
+    --add-534-733-c1-header-bg: var(--color-secondary);
+    --add-534-733-c1-header-clr: var(--color-quaternary);
+    --add-534-733-c1-header-button-bg: var(--color-quaternary);
+    --add-534-733-c1-header-button-clr: var(--color-primary);
+    --add-534-733-c2-bg: var(--color-secondary);
+    --add-534-733-c2-c4-box-bg: var(--color-quaternary);
+    --add-534-733-c2-c4-box-clr: var(--color-primary);
+    --add-619-c1-c2-c1-foam-box-bg: var(--color-primary);
+    --add-619-c1-c2-c1-foam-box-clr: var(--color-quaternary);
+    --add-534-733-c2-c4-button-bg: var(--color-primary);
+    --add-534-733-c2-c4-button-clr: var(--color-quaternary);
 }   
 
 body {
