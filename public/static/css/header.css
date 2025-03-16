@@ -1,11 +1,13 @@
 header {
     width: 100%;
     padding: 15px 21px;
+    position: fixed;
+    z-index: 3;
 }
 
 .headercontainerenv {
     width: 100%;
-    padding: 10px;
+    padding: 5px;
     background-color: var(--header-background);
     border-radius: 3px;
 }
@@ -15,6 +17,7 @@ header {
     gap: 15px;
 }
 .headercontainerone {
+    height: 30px;
     justify-content: start;
 }
 
@@ -23,7 +26,11 @@ header {
 }
 
 .headeritem {
-    padding: 10px;
+    display: flex;
+    width: auto;
+    aspect-ratio: 2/1;
+    justify-content: center;
+    align-items: center;
     color: var(--color-primary);
     text-decoration: none;
     background-color: var(--color-quaternary);

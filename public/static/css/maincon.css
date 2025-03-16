@@ -18,7 +18,15 @@
     height: 100%;
     background-color: var(--color-quaternary);
     border-radius: 3px;
+    overflow: hidden;
 }
+
+.itcon1-item img {
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+
 .itcon2-itcon1 {
     width: 100%;
     height: auto;
@@ -57,14 +65,15 @@
 
 .itcon2-itcon3 {
     width: 100%;
-    height: 27px;
+    height: 32px;
     justify-content: center;
     align-items: center;
 }
 
 .itcon2-itcon3-1 {
-    width: 100px;
-    height: 35px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 4/1;
     justify-content: center;
     align-items: center;
     background-color: var(--main-con1-itcon2-itcon1_itcon2_itcon3-bg);
@@ -74,7 +83,7 @@
 
 .main-con2-con1 {
     width: 100%;
-    height: 340px;
+    height: auto;
     padding: 7px;
     gap: 7px;
     background-color: var(--main-con2-itcon1-bg);
@@ -98,8 +107,9 @@ div.main-con2-con1-itcon1 > div.itcon1-1 {
 }
 
 div.main-con2-con1-itcon1 > div.itcon1-2 {
-    width: 40px;
-    height: 40px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1/1;
     justify-content: center;
     align-items: center;
     background-color: var(--main-con2-con1-itcon2-bg);
@@ -127,7 +137,12 @@ div.main-con2-con1-itcon1 > div.itcon1-2 {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    /* background-image: ; */
+}
+
+.home-itcon2-1-1-env img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
 }
 
 .home-itcon2-1-2-env {
@@ -185,8 +200,9 @@ div.itcon2-1-2-2-env > div.itcon2-1-2-2-2 {
     align-items: center;
 }
 .itcon2-1-3-2 {
-    width: 20%;
+    width: auto;
     height: 100%;
+    aspect-ratio: 1/1;
     justify-content: center;
     align-items: center;
     background-color: var(--main-con2-con2-itcon2-1-3-2-bg);

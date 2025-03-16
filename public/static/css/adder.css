@@ -62,10 +62,11 @@
     width: 40%;
     height: auto;
     padding: 5px;
+    gap: 5px;
 }
 
 .add-619-c1-c2-c2-img-env {
-    height: 520px;
+    height: 85%;
     justify-content: center;
     align-items: center;
 }
@@ -78,14 +79,15 @@
 }
 
 .add-619-c1-c2-c2-button-env {
-    height: 30px;
+    height: 15%;
     justify-content: end;
-    align-items: center;
+    align-items: end;
 }
 
 .add-619-c1-c2-c2-button {
-    width: 50px;
-    height: 30px;
+    width: auto;
+    height: 40px;
+    aspect-ratio: 2/1;
     justify-content: center;
     align-items: center;
     background-color: var(--add-619-c1-c2-c2-button-bg);
@@ -97,13 +99,13 @@
     width: 40%;
     height: auto;
     gap: 7px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
 .add-823-c1-box {
     width: 100%;
-    height: 50px;
+    height: 8.5%;
     justify-content: center;
     align-items: center;
     background-color: var(--add-823-c1-box-bg);
@@ -111,8 +113,14 @@
     border-radius: 4px;
 }
 
+.add-823-c2-preview {
+    height: 91.5%;
+    justify-content: center;
+    align-items: center;
+}
+
 .add-823-c2-env {
-    height: 550px;
+    height: auto;
     justify-content: center;
     align-items: center;
 }
@@ -152,8 +160,9 @@
 }
 
 .add-534-733-c1-header-button {
-    width: 45px;
-    height: 45px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1/1;
     justify-content: center;
     align-items: center;
     background-color: var(--add-534-733-c1-header-button-bg);
@@ -231,8 +240,9 @@
 }
 
 .add-534-733-c2-c4-box {
-    width: 100px;
+    width: auto;
     height: 40px;
+    aspect-ratio: 2/1;
     justify-content: center;
     align-items: center;
     background-color: var(--add-534-733-c2-c4-box-bg);

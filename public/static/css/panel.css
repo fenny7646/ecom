@@ -31,8 +31,9 @@
 }
 
 .panel-873-con1-2 {
-    width: 40px;
+    width: auto;
     height: 40px;
+    aspect-ratio: 1/1;
     justify-content: center;
     align-items: center;
     background-color: var(--panel-873-con1-2-bg);
@@ -41,7 +42,7 @@
 }
 
 .panel-873-con2-env {
-    min-height: 40px;
+    height: auto;
 }
 
 .panel-873-con2 {
@@ -64,7 +65,9 @@
 }
 
 .panel-873-con2-1 {
-    width: 40px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1/1;
     justify-content: center;
     align-items: center;
     background-color: var(--panel-873-con2-1-bg);
@@ -81,7 +84,9 @@
 
 
 .panel-873-con2-3 {
-    width: 120px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 3/1;
     justify-content: center;
     align-items: center;
     background-color: var(--panel-873-con2-3-bg);
@@ -90,7 +95,9 @@
 }
 
 .panel-873-con2-4 {
-    width: 40px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1/1;
     justify-content: center;
     align-items: center;
     background-color: var(--panel-873-con2-1-bg);

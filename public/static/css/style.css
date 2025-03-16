@@ -31,9 +31,8 @@
     --header-background: var(--color-secondary);
 /* Main */
     /* Header */
-    --main-header-card-backcolor: ;
-    --main-header-card-color: ;
-    --main-header-card-color: ;
+    --main-hover-header-button-bg: var(--color-primary);
+    --main-hover-header-button-clr: var(--color-quaternary);
     /* Home Card */
     --main-con1-itcon1-bg: var(--color-primary);
     --main-con1-itcon2-bg: var(--color-secondary);
@@ -45,16 +44,26 @@
     --main-con2-con1-itcon2-bg: var(--color-quaternary);
     --main-con2-con1-itcon2-clr: var(--color-primary);
     --main-con2-con1-itcon2-1-bg: var(--color-secondary);
-    --main-con2-con2-itcon2-1-3-2-bg: var(--color-primary);
-    --main-con2-con2-itcon2-1-3-2-clr: var(--color-quaternary);
+    --main-con2-con2-itcon2-1-3-2-bg: var(--color-quaternary);
+    --main-con2-con2-itcon2-1-3-2-clr: var(--color-primary);
     --main-con2-con2-itcon2-1-3-3-bg: var(--color-quaternary);
     --main-con2-con2-itcon2-1-3-3-clr: var(--color-primary);
+    /* Home Hover */
+    --main-hover-con1-itcon2-itcon1_itcon2_itcon3-bg: var(--color-quaternary);
+    --main-hover-con1-itcon2-itcon1_itcon2_itcon3-clr: var(--color-primary);
+    --main-hover-con2-con2-itcon2-1-3-2-bg: var(--color-primary);
+    --main-hover-con2-con2-itcon2-1-3-2-clr: var(--color-quaternary);
     /* ItemDesc */
     --itdesc-main-con-bg: var(--color-primary);
     --itdesc-con-common-clr: var(--color-quaternary);
     --itdesc-con-con2-1-1-img-bg: var(--color-secondary);
     --itdesc-con-con2-1-button-bg: var(--color-quaternary);
     --itdesc-con-con2-1-button-clr: var(--color-primary);
+    /* ItemDesc Hover */
+    --itdesc-hover-con-con2-1-button-bg: var(--color-secondary);
+    --itdesc-hover-con-con2-1-button-clr: var(--color-quaternary);
+    --itdesc-hover-con-con2-1-button-bg: var(--color-secondary);
+    --itdesc-hover-con-con2-1-button-clr: var(--color-quaternary);
     /* Cart */
     --cart-main-con-bg: var(--color-primary);
     --cart-con-con1-bg: var(--color-secondary);
@@ -66,6 +75,15 @@
     --cart-con3-2-button-clr: var(--color-primary);
     --cart-itcon-header-bg: var(--color-primary);
     --cart-itcon-header-clr: var(--color-quaternary);
+    --cart-con2-con1-2-2-1-1-button-bg: var(--color-primary);
+    --cart-con2-con1-2-2-1-1-button-clr: var(--color-quaternary);
+    /* Cart-Hover */
+    --cart-hover-con2-con1-2-2-1-1-button-bg: var(--color-quaternary);
+    --cart-hover-con2-con1-2-2-1-1-button-clr: var(--color-primary);
+    --cart-hover-con2-con1-3-1-1-button-bg: var(--color-quaternary);
+    --cart-hover-con2-con1-3-1-1-button-clr: var(--color-primary);
+    --main-hover-con2-con2-itcon2-1-3-3-bg: var(--color-primary);
+    --main-hover-con2-con2-itcon2-1-3-3-clr: var(--color-quaternary);
     /* WishList */
     --wish-main-con-bg: var(--color-primary);
     --wish-con1-1-bg: var(--color-secondary);
@@ -79,6 +97,11 @@
     --wish-con2-2-1-2-1-button-clr:var(--color-quaternary);
     --wish-con2-2-1-2-2-button-bg: var(--color-quaternary);
     --wish-con2-2-1-2-2-button-clr: var(--color-primary);
+    /* Wishlist Hover */
+    --wish-hover-con2-2-1-2-2-button-bg: var(--color-primary);
+    --wish-hover-con2-2-1-2-2-button-clr: var(--color-quaternary);
+    --wish-hover-con2-2-1-2-1-button-bg: var(--color-quaternary);
+    --wish-hover-con2-2-1-2-1-button-clr: var(--color-primary);
     /* Adder */
     --add-c-c1-bg: var(--color-primary);
     --add-619-c1-c1-header-bg: var(--color-secondary);
@@ -100,6 +123,15 @@
     --add-619-c1-c2-c1-foam-box-clr: var(--color-quaternary);
     --add-534-733-c2-c4-button-bg: var(--color-primary);
     --add-534-733-c2-c4-button-clr: var(--color-quaternary);
+    /* Adder Hover */
+    --add-hover-619-c1-c2-c2-button-bg: var(--color-primary);
+    --add-hover-619-c1-c2-c2-button-clr: var(--color-quaternary);
+    --add-hover-534-733-c1-header-button-bg: var(--color-secondary);
+    --add-hover-534-733-c1-header-button-clr: var(--color-quaternary);
+    --add-hover-534-733-c2-c4-box-bg: var(--color-primary);
+    --add-hover-534-733-c2-c4-box-clr: var(--color-quaternary);
+    --add-hover-534-733-c2-c4-button-bg: var(--color-quaternary);
+    --add-hover-534-733-c2-c4-button-clr: var(--color-primary);
     /* Panel */
     --panel-873-bg: var(--color-primary);
     --panel-873-con1-bg: var(--color-secondary);
@@ -111,6 +143,13 @@
     --panel-873-con2-1-clr: var(--color-quaternary);
     --panel-873-con2-3-bg: var(--color-quaternary);
     --panel-873-con2-3-clr: var(--color-primary);
+    /* Panel hover */
+    --panel-hover-873-con2-3-bg: var(--color-primary);
+    --panel-hover-873-con2-3-clr: var(--color-quaternary);
+    --panel-hover-873-con1-2-bg: var(--color-secondary);
+    --panel-hover-873-con1-2-clr: var(--color-quaternary);
+    --panel-hover-873-con2-1-bg: var(--color-quaternary);
+    --panel-hover-873-con2-1-clr: var(--color-primary);
 }   
 
 body {

@@ -1,0 +1,108 @@
+.headeritem {transition: 0.5s;}
+.headeritem:hover {
+    color: var(--main-hover-header-button-clr);
+    background-color: var(--main-hover-header-button-bg);
+}
+
+/* Cart  */
+.cart-con2-con1-2-2-1-1-button {transition: 0.5s;}
+.cart-con2-con1-2-2-1-1-button:hover {
+    background-color: var(--cart-hover-con2-con1-2-2-1-1-button-bg);
+    color: var(--cart-hover-con2-con1-2-2-1-1-button-clr);
+}
+
+.cart-con2-con1-3-1-1-button {transition: 0.5s;}
+.cart-con2-con1-3-1-1-button:hover {
+    background-color: var(--cart-hover-con2-con1-3-1-1-button-bg);
+    color: var(--cart-hover-con2-con1-3-1-1-button-clr);
+}
+
+.itcon2-1-3-3 {transition: 0.5s;}
+.itcon2-1-3-3:hover {
+    background-color: var(--main-hover-con2-con2-itcon2-1-3-3-bg);
+    color: var(--main-hover-con2-con2-itcon2-1-3-3-clr);
+}
+
+/* Adder */
+.add-619-c1-c2-c2-button {transition: 0.5s;}
+.add-619-c1-c2-c2-button:hover {
+    background-color: var(--add-hover-619-c1-c2-c2-button-bg);
+    color: var(--add-hover-619-c1-c2-c2-button-clr);
+}
+
+.add-534-733-c1-header-button {transition: 0.5s;}
+.add-534-733-c1-header-button:hover {
+    background-color: var(--add-hover-534-733-c1-header-button-bg);
+    color: var(--add-hover-534-733-c1-header-button-clr);
+}
+
+.add-534-733-c2-c4-box {transition: 0.5s;}
+.add-534-733-c2-c4-box:hover {
+    background-color: var(--add-hover-534-733-c2-c4-box-bg);
+    color: var(--add-hover-534-733-c2-c4-box-clr);
+}
+
+.add-534-733-c2-c4-button-1 {transition: 0.5s;}
+.add-534-733-c2-c4-button-1:hover {
+    background-color: var(--add-hover-534-733-c2-c4-button-bg);
+    color: var(--add-hover-534-733-c2-c4-button-clr);
+}
+
+/* Item Desc */
+
+.itdesc-con-con2-con1-1-button-1 {transition: 0.5s;}
+.itdesc-con-con2-con1-1-button-1:hover {
+    background-color: var(--itdesc-hover-con-con2-1-button-bg);
+    color: var(--itdesc-hover-con-con2-1-button-clr);
+}
+
+.itdesc-con-con2-con1-1-button-2 {transition: 0.5s;}
+.itdesc-con-con2-con1-1-button-2:hover {
+    background-color: var(--itdesc-hover-con-con2-1-button-bg);
+    color: var(--itdesc-hover-con-con2-1-button-clr);
+}
+
+/* Admin Panel */
+.panel-873-con2-3 {transition: 0.5s;}
+.panel-873-con2-3:hover {
+    background-color: var(--panel-hover-873-con2-3-bg);
+    color: var(--panel-hover-873-con2-3-clr);
+}
+
+.panel-873-con1-2 {transition: 0.5s;}
+.panel-873-con1-2:hover {
+    background-color: var(--panel-hover-873-con1-2-bg);
+    color: var(--panel-hover-873-con1-2-clr);
+}
+
+.panel-873-con2-4 {transition: 0.5s;}
+.panel-873-con2-4:hover {
+    background-color: var(--panel-hover-873-con2-1-bg);
+    color: var(--panel-hover-873-con2-1-clr);
+}
+
+/* Wishlist */
+.wish-con2-2-1-2-2-button {transition: 0.5s;}
+.wish-con2-2-1-2-2-button:hover {
+    background-color: var(--wish-hover-con2-2-1-2-2-button-bg);
+    color: var(--wish-hover-con2-2-1-2-2-button-clr);
+}
+
+.wish-con2-2-1-2-1-button {transition: 0.5s;}
+.wish-con2-2-1-2-1-button:hover {
+    background-color: var(--wish-hover-con2-2-1-2-1-button-bg);
+    color: var(--wish-hover-con2-2-1-2-1-button-clr);
+}
+
+/* HomePage */
+.itcon2-itcon1-1, .itcon2-itcon1-2, .itcon2-itcon3-1 {transition: 0.5s;}
+.itcon2-itcon1-1:hover, .itcon2-itcon1-2:hover, .itcon2-itcon3-1:hover {
+    background-color: var(--main-hover-con1-itcon2-itcon1_itcon2_itcon3-bg);
+    color: var(--main-hover-con1-itcon2-itcon1_itcon2_itcon3-clr);
+}
+
+.itcon2-1-3-2 {transition: 0.5s}
+.itcon2-1-3-2:hover {
+    background-color: var(--main-hover-con2-con2-itcon2-1-3-2-bg);
+    color: var(--main-hover-con2-con2-itcon2-1-3-2-clr);
+}

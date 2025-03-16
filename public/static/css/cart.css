@@ -55,7 +55,7 @@
 }
 
 .cart-con2-con1-2-1 {
-    height: 50px;
+    height: 35%;
     justify-content: start;
     align-items: center;
 }
@@ -63,18 +63,31 @@
 .cart-con2-con1-2-2-env {
     height: 30px;
     justify-content: start;
+    gap: 5px;
 }
 
 .cart-con2-con1-2-2-1-env {
-    width: 15%;
-    justify-content: center;
+    width: 55px;
+    gap: 3px;
+    justify-content: space-between;
     align-items: center;
 }
 
 .cart-con2-con1-2-2-1-1 {
-    width: 10%;
+    width: 20%;
     justify-content: center;
     align-items: center;
+}
+
+.cart-con2-con1-2-2-1-1-button {
+    width: auto;
+    height: 20px;
+    aspect-ratio: 1/1;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cart-con2-con1-2-2-1-1-button-bg);
+    color: var(--cart-con2-con1-2-2-1-1-button-clr);
+    border-radius: 50%;
 }
 
 .cart-con2-con1-2-2-1-2 {
@@ -83,32 +96,32 @@
 }
 
 .cart-con2-con1-2-2-2 {
-    width: 5%;
+    width: 3%;
     justify-content: center;
     align-items: center;
 }
 
 .cart-con2-con1-2-2-3 {
-    width: 10%;
-    justify-content: center;
+    width: 40%;
+    justify-content: start;
     align-items: center;
 }
 
 .cart-con2-con1-3-env {
     width: 15%;
-
 }
 
 .cart-con2-con1-3-1-env {
-    height: 35%;
+    height: 30%;
     padding: 3px;
     justify-content: end;
     align-items: center;
 }
 
 .cart-con2-con1-3-1-1-button {
-    width: 35px;
-    height: 35px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1/1;
     justify-content: center;
     align-items: center;
     background-color: var(--cart-con2-con1-3-1-1-button-bg);
@@ -140,7 +153,7 @@
 }
 
 .cart-con3-2-env {
-    height: 25px;
+    height: 30px;
     justify-content: end;
 }
 
@@ -167,7 +180,7 @@
 }
 
 .cart-con4-2 {
-    height: 360px;
+    height: auto;
     padding: 5px;
 }
 

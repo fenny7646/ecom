@@ -1,5 +1,6 @@
 main {
-    min-height: 1000px;
+    padding-top: 75px;
+    z-index: 1;
 }
 
 .main-con1-env {
